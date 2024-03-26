@@ -1,5 +1,7 @@
-{
-    "name": "Projeto 1",
-    "project_tag": "proj1"
-    "icon_url": "https://raw.githubusercontent.com/ReFLab/fitlab-mocks/main/app_icon.png"
-}
+[
+    {
+        "name": "Projeto 1",
+        "project_tag": "proj1"
+        "icon_url": "https://raw.githubusercontent.com/ReFLab/fitlab-mocks/main/app_icon.png"
+    }
+]
