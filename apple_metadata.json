@@ -1,0 +1,9 @@
+{
+  "description": "", // Descrição do app na loja
+  "keywords": "", // keywords de busca na loja. "fitlab, academia, saúde, bem-estar, emagrecer"
+  "name": "", // titulo do app na loja - "Fitlab - Emagreça sem dieta"
+  "privacy_url": "", // link da política de privacidade
+  "release_notes": "Para melhorar sua experincia de reeducao alimentar, ns atualizamos o app e corrigimos alguns bugs que nossos usurios identificaram na verso anterior.",
+  "subtitle": "By Fitlab", // Subtítulo do app na loja
+  "support_url": "", // link do suporte
+}
